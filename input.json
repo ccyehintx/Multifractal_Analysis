@@ -1,0 +1,12 @@
+{
+        "file_lists": {"filename": ["t02.lammpstrj", "t09.lammpstrj", "t14.lammpstrj"]},
+        "specifications": {"line_plus": "6",
+                "box_range": [0, 20],
+                "box_slice_0": "5",
+		"box_slice_f": "19",
+		"box_slice_d": "3",
+		"q_list_0": "-2",
+		"q_list_f": "2",
+                "q_list_d": "0.3"}
+}
+
