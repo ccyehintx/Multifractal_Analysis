@@ -1,0 +1,14 @@
+{
+        "file_lists": {"filename": "quench.data.gz"},
+        "specifications": {"line_plus": "6",
+		"extractsnap": [20, 200],
+		"extract_incre": "10",
+                "box_range": [-60, 60],
+                "box_slice_0": "10",
+		"box_slice_f": "100",
+		"box_slice_d": "20",
+		"q_list_0": "-4",
+		"q_list_f": "4",
+                "q_list_d": "0.32"}
+}
+
